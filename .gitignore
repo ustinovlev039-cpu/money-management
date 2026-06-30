@@ -58,4 +58,6 @@ src/testTestingRootWkspc/coverageWorkspace/.coverage
 ai-artifacts/*
 
 .env
-
+output/
+reports/
+logs/
